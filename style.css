@@ -131,3 +131,66 @@ img {
 .btn-dark:hover {
   background-color: #333;
 }
+
+/* Background */
+.bg-primary {
+  background-color: var(--color-primary);
+  color: #fff;
+}
+
+.bg-secondary {
+  background-color: var(--color-primary);
+  color: #fff;
+}
+
+.bg-extra {
+  background-color: var(--color-primary);
+  color: #fff;
+}
+
+.bg-dark {
+  background-color: var(--color-primary);
+  color: #fff;
+}
+
+/* Text Styling*/
+
+.text-center {
+  text-align: center;
+}
+
+.text-xl {
+  font-size: 50px;
+  letter-spacing: 6px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.text-lg {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.text-md {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.text-sm {
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+
+/* Padding */
+
+.py-lg {
+  padding: 40px 0;
+}
+
+.py-md {
+  padding: 20px 0;
+}
+
+.py-sm {
+  padding: 10px 0;
+}
