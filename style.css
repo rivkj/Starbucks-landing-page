@@ -134,6 +134,12 @@ section a {
   background-color: #E99264;
 }
 
+/* Grid Styles - utility classes */
+.grid-col-2 {
+  display: grid;
+  grid-template-columns: 200px 300px;
+}
+
 /* Buttons */
 .btn {
   cursor: pointer;
