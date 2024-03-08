@@ -35,6 +35,10 @@ img {
   max-width: 100%;
 }
 
+section a {
+  color: #fff;
+}
+
 /* Navbar */
 .navbar {
   background-color: #fff;
@@ -94,6 +98,16 @@ img {
 
 .navbar-nav-right li:nth-child(2) {
   margin: 0 5px;
+}
+
+/* Box */
+.box {
+  margin-bottom: 30px;
+}
+
+.box-inner {
+  max-width: 700px;
+  margin: 0 auto;
 }
 
 /* Buttons */
