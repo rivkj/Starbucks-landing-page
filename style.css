@@ -100,6 +100,37 @@ section a {
   margin: 0 5px;
 }
 
+/* Footer and Socials */
+.footer-container {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 30px 30px;
+}
+
+.social {
+  display: flex;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.social img {
+  height: 35px;
+  width: 35px;
+}
+
+.social a {
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+.divider {
+  height: 1px;
+  width: 95%;
+  background-color: #ccc;
+  margin: 40px auto;
+}
+
 /* Box */
 .box {
   margin-bottom: 30px;
@@ -132,6 +163,10 @@ section a {
 
 .box-g {
   background-color: #E99264;
+}
+
+.box-h .box-text {
+  max-width: 600px;
 }
 
 .box-text {
