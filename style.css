@@ -3,7 +3,6 @@
 :root {
   --color-primary: #006241;
   --color-secondary: #d50032;
-  --color-extra: #d4e9e2;
 }
 
 * {
@@ -184,7 +183,6 @@ section a {
 .grid-col-2 {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 2rem;
   align-items: center;
   justify-content: space-between;
 }
@@ -270,12 +268,12 @@ section a {
 }
 
 .text-md {
-  font-size: 24px;
+  font-size: 28px;
   margin-bottom: 20px;
 }
 
 .text-sm {
-  font-size: 19px;
+  font-size: 21px;
   margin-bottom: 20px;
 }
 
