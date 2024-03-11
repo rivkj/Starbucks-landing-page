@@ -293,6 +293,39 @@ section a {
   padding: 10px 0;
 }
 
+/* Hamburger Menu */
+.hamburger {
+  cursor: pointer;
+  height: 24px;
+  width: 24px;
+  position: relative;
+  background: none;
+  border: none;
+  z-index: 10;
+  transition: all 0.25s;
+}
+
+.hamburger-top,
+.hamburger-middle,
+.hamburger-bottom {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2px;
+  width: 24px;
+  background: #000;
+  transform: rotate(0);
+  transition: all 0.5s;
+}
+
+.hamburger-middle {
+  transform: translateY(7px);
+}
+
+.hamburger-bottom {
+  transform: translateY(14px);
+}
+
 @media(max-width: 768px) {
   .grid-col-2 {
     grid-template-columns: 1fr;
@@ -300,6 +333,20 @@ section a {
 
   .grid-reversed :first-child {
     order: 0;
+  }
+
+  .navbar-brand img {
+    height: 40px;
+    width: 40px;
+  }
+
+  .navbar .navbar-nav-left,
+  .navbar .navbar-nav-right {
+    display: none;
+  }
+
+  .footer {
+    text-align: center;
   }
 }
 
