@@ -132,8 +132,7 @@ img {
   display: flex;
   max-width: 1440px;
   width: 100%;
-  align-items: center;
-  justify-content: center;
+  margin: 0 auto 0 auto;
 }
 
 .info a  { 
