@@ -136,8 +136,12 @@ img {
   justify-content: center;
 }
 
-.info a { 
+.info a  { 
   text-decoration: none;
+}
+
+.info a:not(.heading) {
+  color:#6B6B6B;
 }
 
 .info .heading {
