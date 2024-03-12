@@ -14,7 +14,7 @@
 html, body {
   font-family: 'Open Sans', sans-serif;
   line-height: 1.4;
-  color: #000;
+  color: #1E3932;
 }
 
 a {
@@ -34,9 +34,6 @@ img {
   max-width: 100%;
 }
 
-section a {
-  color: #fff;
-}
 
 /* Navbar */
 .navbar {
@@ -99,7 +96,7 @@ section a {
   margin: 0 5px;
 }
 
-/* Footer and Socials */
+/* Footer - Socials */
 .footer-container {
   width: 100%;
   max-width: 1440px;
@@ -128,6 +125,34 @@ section a {
   width: 95%;
   background-color: #ccc;
   margin: 40px auto;
+}
+
+/* Section Info */
+.info-container {
+  display: flex;
+  max-width: 1440px;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.info a { 
+  text-decoration: none;
+}
+
+.info .heading {
+  font-size: 22px;
+}
+
+.info .info-cols {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 1rem;
+  padding-left: 1.5rem;
+}
+
+.info li {
+  line-height: 1.9;
 }
 
 /* Box */
