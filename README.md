@@ -13,3 +13,9 @@ The homepage was built using HTML, CSS and JavaScript to replicate site. All ima
 Any future edits consist of:
 - Updating site to reflect new starbucks features - the page frequenetly changes so media images and information would have to be frequent
 - Editing responsiveness of footer information - about us, careers, etc - for mobile use using a dropdown menu
+<img width="457" alt="main-4" src="https://github.com/rivkj/Starbucks-landing-page/assets/104873021/897bb8a0-61f9-495d-985f-c2c864ba71b8">
+
+### The image above reflects current site and the image below reflects the needed change that Starbucks has for a mobile view
+
+
+<img width="460" alt="main-5" src="https://github.com/rivkj/Starbucks-landing-page/assets/104873021/a05e89b3-17dc-434e-8a80-b686b7f1d8fe">
