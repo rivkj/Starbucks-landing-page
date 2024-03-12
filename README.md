@@ -1,10 +1,10 @@
-#Starbucks Home Page - featuring Spring drinks
+# Starbucks Home Page - featuring Spring drinks
 
 The homepage was built using HTML, CSS and JavaScript to replicate site. All images and information is licensed to Starbucks. 
 
 <img width="988" alt="main-1" src="https://github.com/rivkj/Starbucks-landing-page/assets/104873021/5a6fc79b-9a21-4e14-9923-f6eabdb303da">
 
-##Mobile Responsiveness was also included:
+## Mobile Responsiveness was also included:
 
 <img width="461" alt="main-2" src="https://github.com/rivkj/Starbucks-landing-page/assets/104873021/116d3816-7b3e-4d59-97af-8c27c2b2c450">
 <img width="463" alt="main-3" src="https://github.com/rivkj/Starbucks-landing-page/assets/104873021/509083d8-15d4-4796-b42c-4b627a26871e">
